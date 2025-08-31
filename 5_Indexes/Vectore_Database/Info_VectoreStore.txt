@@ -1,0 +1,5 @@
+A Vectore store is a system designed to store and Retriver data reprsented as numberical vectore
+
+Store type:
+RAM : In Memory
+On Disk: HardDrive

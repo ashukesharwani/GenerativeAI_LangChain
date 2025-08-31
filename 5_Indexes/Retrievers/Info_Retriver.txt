@@ -1,0 +1,15 @@
+A Retriver is component in langchain that fetches relevant  documents form a data sourece 
+in rensponse to user query
+
+type of Retriver
+1. On basis of DataSource 
+ a. Wikipedia Retriver
+ b. Vectore Store - We can used different serarch techniques
+ c. Arxiv
+
+2. On basis of Search Strategy
+ a. MMR (Maximal Margianl Relevance)
+ b. Multi-query
+ c. Contexiual Compression
+
+#There are so many Retriver other then this

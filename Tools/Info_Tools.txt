@@ -1,0 +1,13 @@
+Tool is the way to provide LLM hands & legs
+Tool is just a python function (or API) that is packaged in a way the LLM can understand and call when needed
+
+#
+Types of tools
+1. Built in tools
+2. Custom tools
+
+#
+There are multiple way to create custom tool
+1. using @tools decorator
+2. using structured tool & Pydantic 
+3. using Base Tool Class

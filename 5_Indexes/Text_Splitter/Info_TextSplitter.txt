@@ -1,0 +1,17 @@
+Text Splitter divide the large text into small chunks before feeding to LLM 
+
+#
+Type of textSplitter
+1. Length Based (CharacterTextSplitter) - splitting based on chunk
+2. TextStructured Based(RecursiveCharacterTextSplitter) - split based on format given 
+3. Document Structured Based - same like 2 but more for code and makdown
+4. Sematntic Meaning Based - based on meaning
+
+#
+for Text split = Splitter.split_text
+for Document split = Splitter.split_documents
+
+#
+chunk_size = divide the text on that many characters
+chunk_overlap = between 2 chunks how many characters will chunk_overlap that.
+It helps to keep the contxt of the characters

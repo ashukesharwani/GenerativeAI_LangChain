@@ -1,0 +1,2 @@
+There are so many type of loader available we can find them in the document loader langchain
+https://python.langchain.com/docs/integrations/document_loaders/
